@@ -27,4 +27,9 @@ public class HelloWorldControlerTests {
                 .andDo(MockMvcResultHandlers.print())
                 .andReturn();
     }
+    @Test
+    public void test(){
+        System.out.println("xxx");
+
+    }
 }
