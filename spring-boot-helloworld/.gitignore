@@ -1,6 +1,7 @@
 HELP.md
 target/
 .mvn/
+rebel.xml
 mvnw
 mvnw.*
 !**/src/main/**
